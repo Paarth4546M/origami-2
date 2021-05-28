@@ -1,0 +1,58 @@
+.Header{
+    display:flex;
+    justify-content: space-between;
+    background-color: rgb(109, 217, 221);
+}
+.Top{
+    
+    display:flex;
+    justify-content: space-between;
+   
+}
+.Bottom{
+  
+    display:flex;
+    justify-content: space-between;
+}
+.A{
+    border:solid;
+    border-radius: 50px;
+    margin: 5px;
+    padding:10px
+}
+.B{
+    border:solid;
+    border-radius: 50px;
+    margin: 5px;
+    padding:10px
+}
+.C{
+    border:solid;
+    border-radius: 50px;
+    margin: 5px;
+    padding:10px
+}
+.D{
+    border:solid;
+    border-radius: 50px;
+    margin: 5px;
+    padding:10px
+}
+.E{
+    border:solid;
+    border-radius: 50px;
+    margin: 5px;
+    padding:10px
+}
+.F{
+    border:solid;
+    border-radius: 50px;
+    margin: 5px;
+    padding:10px
+}
+.img{
+    border:solid;
+    border-radius: 20px;
+    border-color: rgb(81, 255, 0);
+    
+}
